@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsfullstacktutorialbackend39015e68": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
